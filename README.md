@@ -1,5 +1,6 @@
 # Data-Visualisation---Power-BI
-1. **African Mobile Data Performance**
+1.   **African Mobile Data Performance**
+   
 This sales dashboard has been instrumental in providing a comprehensive view of key performance indicators (KPIs) and trends. Here are a few highlights:
 
 1. **Real-Time Data Monitoring**: With up-to-the-minute data, we can track sales performance across different regions, products, and teams. This immediacy allows us to respond swiftly to emerging trends and opportunities.
